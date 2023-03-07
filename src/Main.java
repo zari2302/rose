@@ -25,5 +25,6 @@ public class Main {
         System.out.println("_____________*_* __________________");
         System.out.println("______________** __________________");
         System.out.println("______________* ___________________");
+        System.out.println();
     }
 }
